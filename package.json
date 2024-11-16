@@ -1,0 +1,18 @@
+{
+  "name": "mernstacksetup",
+  "version": "1.0.0",
+  "description": "A PowerShell script for automating tasks",
+  "main": "index.js",
+  "bin": {
+    "run": "bash.ps1"
+  },
+  "keywords": [
+    "powershell",
+    "automation"
+  ],
+  "author": "Ujjwal Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "mernstacksetup": "^1.0.0"
+  }
+}
