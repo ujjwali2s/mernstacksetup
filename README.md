@@ -1,6 +1,6 @@
 # My FullStack Tool At One
 
-**My FullStack Tool At One** is a powerful MERN stack utility designed to simplify your development process. With just a single command, you can quickly generate a full-stack project with Tailwind CSS setup. It’s easy to install and use. If you find it helpful, please give me a star on [GitHub](https://github.com/ujjwali2s).
+**My FullStack Tool At One** is a powerful MERN stack utility designed to simplify your development process. With just a single command, you can quickly generate a full-stack project with Tailwind CSS setup. It’s easy to install and use. If you find it helpful, please give me a star on [GitHub](https://github.com/ujjwali2s), [npm](https://www.npmjs.com/package/mernstacksetup).
 
 ## Easy Installation
 
